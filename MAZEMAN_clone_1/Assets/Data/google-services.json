@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710665607861",
+    "project_id": "mazeman-a9e3e",
+    "storage_bucket": "mazeman-a9e3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710665607861:android:14c597c6dee2ccb153bcfc",
+        "android_client_info": {
+          "package_name": "com.LonelyBoy.MAZEMAN"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710665607861-06ntup6u0qhq2e1gtrbh4psl9jl4h6sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1olQZBhBDxWdEVSQBQDu9ojgZrSEpJIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710665607861-06ntup6u0qhq2e1gtrbh4psl9jl4h6sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

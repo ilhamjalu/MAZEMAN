@@ -1,0 +1,7 @@
+MAZEMAN/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.tgz filter=lfs diff=lfs merge=lfs -text
+MAZEMAN_clone_0/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+MAZEMAN_clone_1/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+MAZEMAN_clone_1/Library/ArtifactDB[[:space:]]MAZEMAN/Library/PackageCache/com.ptc.vuforia.engine@08bb0532f635-1635979565000/Vuforia/Plugins/iOS/VuforiaEngine.framework/VuforiaEngine filter=lfs diff=lfs merge=lfs -text
+MAZEMAN/Library/PackageCache/com.ptc.vuforia.engine@08bb0532f635-1635979565000/Vuforia/Plugins/iOS/VuforiaEngine.framework/VuforiaEngine filter=lfs diff=lfs merge=lfs -text
