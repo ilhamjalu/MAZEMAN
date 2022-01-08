@@ -1,26 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
-using TMPro;
-using Photon.Pun;
-using Photon.Realtime;
-
-public class ScoreManager : MonoBehaviour
-{
-    public int myScore, enemyScore;
-    public TextMeshProUGUI myScoretext, enemyScoreText;
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        myScoretext.text = "My Score : " + myScore.ToString();
-        enemyScoreText.text = "Enemy Score : " + enemyScore.ToString();
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d9788bc312cebc744da511cec897457682d33efe7315f9c3d16d6c49bd57453
+size 1166
